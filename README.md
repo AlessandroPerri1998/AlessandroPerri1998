@@ -2,8 +2,8 @@
 - 👀 I’m interested in Robotics, Computer Engineering, Automation
 - 🌱 I’m currently learning Robotics
 - 📫 How to reach me: 
-      LinkedIn: https://www.linkedin.com/in/alessandro-perri-474456161/
-      e-mail: alessandro_perri@outlook.it
+      *LinkedIn: https://www.linkedin.com/in/alessandro-perri-474456161/
+      *e-mail: alessandro_perri@outlook.it
 
 
 <!---
