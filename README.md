@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlessandroPerri1998
-- 👀 I’m interested in Robotics, Computer Engineering, Automation
-- 🌱 I’m currently learning Robotics
+- 👀 I’m interested in Robotics, Computer Engineering, Automation & more
+- 🌱 I’m currently learning Robotics Engineering at Università degli Studi di Genova
 - 📫 How to reach me: 
      - LinkedIn: https://www.linkedin.com/in/alessandro-perri-474456161/
      - E-mail: alessandro_perri@outlook.it
