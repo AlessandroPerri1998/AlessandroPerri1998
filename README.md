@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Robotics
 - 📫 How to reach me: 
      - LinkedIn: https://www.linkedin.com/in/alessandro-perri-474456161/
-     - e-mail: alessandro_perri@outlook.it
+     - E-mail: alessandro_perri@outlook.it
 
 
 <!---
